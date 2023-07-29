@@ -1,6 +1,6 @@
 # 進度：[完成 Styling top bar](https://www.youtube.com/watch?v=krfUjg0S2uI&t=8617s)
 
-1. 下載
+1. git clone https://xxxx
 2. cd fem-xxx folder
 3. npm install
 4. npm install gulp-cli -g
