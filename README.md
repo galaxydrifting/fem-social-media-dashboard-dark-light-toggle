@@ -1,5 +1,11 @@
 # 進度：[完成 Styling top bar](https://www.youtube.com/watch?v=krfUjg0S2uI&t=8617s)
 
+1. 下載
+2. cd fem-xxx folder
+3. npm install
+4. npm install gulp-cli -g
+5. gulp (start server)
+
 # Frontend Mentor - Social media dashboard with theme switcher
 
 ![Design preview for the Social media dashboard with theme switcher coding challenge](./design/desktop-preview.jpg)
